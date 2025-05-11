@@ -47,3 +47,18 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# macOS metadata
+.DS_Store
+
+# Temporary Word lock files
+~$*
+
+# RStudio or Rmd cache
+.Rproj.user
+*.Rproj
+*.html
+*.nb.html
+
+# Misc
+*.tmp
